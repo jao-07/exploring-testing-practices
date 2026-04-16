@@ -46,4 +46,6 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
   Por isso, o React, que antes usavam apenas testes unitários simples, passou a utilizar testes mais complexos usando fixtures. Essa filosofia continuou a ser implementada para outras features, como o React Concurrent e o React Compiler, que também são difíceis de serem testados sem um ambiente adequado.
 
   <img width="723" height="417" alt="image" src="https://github.com/user-attachments/assets/710af4f9-b989-4e68-bce3-f4941c60a644" />
+  <img width="721" height="419" alt="image" src="https://github.com/user-attachments/assets/4b0ae773-09f1-4de4-a2c6-e1b8ce58f8fe" />
+
 
